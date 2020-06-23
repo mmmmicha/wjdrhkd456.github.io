@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "en-Us"
 title                    : "배움이 즐거운 개발자의 저장공간"
 title_separator          : "-"
-subtitle                 : "끽" # site tagline that appears below site title in masthead
+subtitle                 : "웹개발자, java, spring" # site tagline that appears below site title in masthead
 name                     : "KwangHyeon-Jeong"
 description              : "배움을 즐기는 사람들의 자유로운 소통의 장이 되었으면 합니다."
 url                      : "https://wjdrhkd456.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
