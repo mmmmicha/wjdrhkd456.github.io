@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "배움이 즐거운 개발자의 저장공간"
 title_separator          : "-"
 subtitle                 : "가산" # site tagline that appears below site title in masthead
-name                     : "광현(초급개발자)"
+name                     : "KwangHyeon-Jeong"
 description              : "배움을 즐기는 사람들의 자유로운 소통의 장이 되었으면 합니다."
 url                      : "https://wjdrhkd456.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -40,9 +40,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -70,6 +70,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
+instagram: "https://www.instagram.com/ppang.0423/"
+  username               : "ppang.0423"
 twitter:
   username               :
 facebook:
@@ -94,10 +96,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "광현(초급개발자)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "호기심이 많은 햇병아리 개발자입니다."
+  location         : "가산디지털단지"
   email            :
   links:
     - label: "Email"
@@ -139,7 +141,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/ppang.0423/"
 
 
 # Reading Files
