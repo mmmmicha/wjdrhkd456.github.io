@@ -13,10 +13,10 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-Kr"
+locale                   : "en-Us"
 title                    : "배움이 즐거운 개발자의 저장공간"
 title_separator          : "-"
 subtitle                 : "끽" # site tagline that appears below site title in masthead
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/ppang.0423/"
+      # url: "https://www.instagram.com/ppang.0423/"
 
 
 # Reading Files
