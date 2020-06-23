@@ -16,7 +16,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-Kr"
 title                    : "배움이 즐거운 개발자의 저장공간"
 title_separator          : "-"
 subtitle                 : "끽" # site tagline that appears below site title in masthead
