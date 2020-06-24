@@ -24,7 +24,7 @@ name                     : "KwangHyeon-Jeong"
 description              : "배움을 즐기는 사람들의 자유로운 소통의 장이 되었으면 합니다."
 url                      : "https://wjdrhkd456.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "wjdrhkd456/knowledgeContainer" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/siliconValley.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -114,10 +114,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://www.github.com/wjdrhkd456/"
+      url: "https://www.github.com/wjdrhkd456/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/ppang.0423/"
+      url: "https://www.instagram.com/ppang.0423/"
 
 # Site Footer
 footer:
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://www.github.com/wjdrhkd456/"
+      url: "https://www.github.com/wjdrhkd456/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/ppang.0423/"
+      url: "https://www.instagram.com/ppang.0423/"
 
 
 # Reading Files
