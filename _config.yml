@@ -268,7 +268,10 @@ compress_html:
   ignore:
     envs: development
 
-
+header:
+  image: /assets/images/siliconValley.png
+  image_description: "A description of the image"
+  
 # Defaults
 defaults:
   # _posts
