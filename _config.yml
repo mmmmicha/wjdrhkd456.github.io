@@ -114,10 +114,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/wjdrhkd456/"
+      # url: "https://www.github.com/wjdrhkd456/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/ppang.0423/"
+      # url: "https://www.instagram.com/ppang.0423/"
 
 # Site Footer
 footer:
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/wjdrhkd456/"
+      # url: "https://www.github.com/wjdrhkd456/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
