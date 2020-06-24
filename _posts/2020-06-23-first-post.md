@@ -1,5 +1,5 @@
 ---
-title: "개인 블로그 개설 테스트"
+title: "안녕하세요! 반갑습니다."
 date: 2020-06-24 22:34:00 -0400
 categories: Blog Create Git
 ---
