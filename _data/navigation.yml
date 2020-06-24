@@ -2,8 +2,8 @@
 main:
   - title: "Posts"
     url: https://wjdrhkd456.github.io/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: https://github.com/wjdrhkd456/portfolio/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
