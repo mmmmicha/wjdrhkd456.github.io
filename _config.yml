@@ -268,9 +268,13 @@ compress_html:
   ignore:
     envs: development
 
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  image: /assets/images/siliconValley.png
-  image_description: "A description of the image"
+  overlay_image: /assets/images/siliconValley.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
   
 # Defaults
 defaults:
