@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-Us"
@@ -40,9 +40,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-dark" # "github-light" (default), "github-dark"
+    theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "광현(초급개발자)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "호기심이 많은 햇병아리 개발자입니다."
+  bio              : "호기심이 많은 웹개발자입니다."
   location         : "가산디지털단지"
   email            :
   links:
@@ -114,10 +114,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/wjdrhkd456/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/ppang.0423/"
 
 # Site Footer
 footer:
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/wjdrhkd456/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
