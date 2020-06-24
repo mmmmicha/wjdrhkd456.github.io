@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "광현(초급개발자)"
   avatar           : "/assets/images/itsme.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "호기심이 많은 웹개발자입니다."
-  location         : "가산디지털단지"
+  bio              : "호기심이 많은 웹개발자입니다. 매일매일 IT뉴스를 스크랩하고 있습니다."
+  location         : "가산디지털단지, 서울"
   email            :
   links:
     - label: "Email"
