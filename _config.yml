@@ -23,7 +23,7 @@ subtitle                 : "web, java, spring, RDBMS" # site tagline that appear
 name                     : "KwangHyeon-Jeong"
 description              : "배움을 즐기는 사람들의 자유로운 소통의 장이 되었으면 합니다."
 url                      : "https://wjdrhkd456.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
