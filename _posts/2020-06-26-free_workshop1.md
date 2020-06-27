@@ -1,10 +1,10 @@
 ---
-title: "Free workShop 1번 - HttpSession 과 @SessionAttributes"
+title: "Free workShop 1번 - HttpSession vs @SessionAttributes"
 date: 2020-06-26 23:56:00 -0400
 categories: session @SessionAttributes HttpSession
 ---
 
-오늘은 제가 예전부터 궁금했던 **session** 에 대한 **무기한 workshop** 을 열어두려고 합니다. ~~workshop은 공동작업공간이라는 의미로 사용했습니다.~~<br><br>
+오늘은 제가 예전부터 궁금했던 **session** 에 대한 **무기한 workshop** 을 열어두려고 합니다. **workshop은 공동작업공간이라는 의미로 사용했습니다.**<br><br>
 
 session이란 무엇인가..<br><br>
 
