@@ -1,7 +1,7 @@
 ---
 title: "Project Log. 1"
 date: 2020-07-01 23:05:40 -0400
-categories: Blog Create Git
+categories: project log
 ---
 
 workShop 보다도 형식에서 더 자유롭게 당시의 심경이나 상황을 기록해두려고 한다.
